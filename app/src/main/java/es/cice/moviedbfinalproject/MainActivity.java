@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
                 //Insertar los datos obtenidos con in en el StringBuffer
                 String line = null;
                 while ((line = in.readLine()) != null) {
-                    data.append(line);
+                    data.append(line); 
 
                 }
                 Gson gson=new Gson();
