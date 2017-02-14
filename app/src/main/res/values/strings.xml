@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieDBFinalProject</string>
+
+    <string-array name="generos">
+        <item>Sin especificar</item>
+        <item>Drama</item>
+        <item>Terror</item>
+        <item>Misterio</item>
+        <item>Aventura</item>
+        <item>Comedia</item>
+    </string-array>
+
+    <string-array name="años">
+    <item>Cualquier año</item>
+    <item>hasta 1900</item>
+    <item>1900-1950</item>
+    <item>1950-2000</item>
+    <item>2000-hasta hoy</item>
+</string-array></resources>
